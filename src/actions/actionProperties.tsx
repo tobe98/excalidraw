@@ -475,6 +475,7 @@ export const actionChangeFontFamily = register({
       { value: 1, text: t("labels.handDrawn") },
       { value: 2, text: t("labels.normal") },
       { value: 3, text: t("labels.code") },
+      { value: 4, text: t("labels.handWriteCn") },
     ];
 
     return (
